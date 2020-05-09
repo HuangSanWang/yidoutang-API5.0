@@ -1,0 +1,8 @@
+[2020-04-29 16:47:17,297 - logs] - <module> - INFO - start print log!
+[2020-04-29 16:47:17,300 - logs] - <module> - DEBUG - do something!
+[2020-04-29 16:47:17,300 - logs] - <module> - WARNING - somethong maybe fail!
+[2020-04-29 16:47:17,300 - logs] - <module> - INFO - finish!
+[2020-04-29 16:52:41,912 - logs] - Log.py - INFO - start print log!
+[2020-04-29 16:52:41,912 - logs] - Log.py - DEBUG - do something!
+[2020-04-29 16:52:41,912 - logs] - Log.py - WARNING - somethong maybe fail!
+[2020-04-29 16:52:41,912 - logs] - Log.py - INFO - finish!
