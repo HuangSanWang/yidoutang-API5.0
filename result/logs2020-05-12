@@ -1,0 +1,26 @@
+[2020-05-12 18:32:24,480 - logs] - runTest.py - INFO - resultPath = D:\Programs\test_script\yidoutang_API5.0\result\report.html
+[2020-05-12 18:32:24,484 - logs] - runTest.py - INFO - caseListFile = D:\Programs\test_script\yidoutang_API5.0\caselist.txt
+[2020-05-12 18:32:24,484 - logs] - runTest.py - INFO - caseList = []
+[2020-05-12 18:32:24,484 - logs] - runTest.py - INFO - *********TEST END*********
+[2020-05-12 18:38:05,821 - logs] - runTest.py - INFO - resultPath = D:\Programs\test_script\yidoutang_API5.0\result\report.html
+[2020-05-12 18:38:05,821 - logs] - runTest.py - INFO - caseListFile = D:\Programs\test_script\yidoutang_API5.0\caselist.txt
+[2020-05-12 18:38:05,821 - logs] - runTest.py - INFO - caseList = []
+[2020-05-12 18:38:06,067 - logs] - runTest.py - INFO - *********TEST END*********
+[2020-05-12 18:42:40,557 - logs] - runTest.py - INFO - resultPath = D:\Programs\test_script\yidoutang_API5.0\result\report.html
+[2020-05-12 18:42:40,557 - logs] - runTest.py - INFO - caseListFile = D:\Programs\test_script\yidoutang_API5.0\caselist.txt
+[2020-05-12 18:42:40,557 - logs] - runTest.py - INFO - caseList = []
+[2020-05-12 18:42:40,739 - logs] - runTest.py - INFO - *********TEST END*********
+[2020-05-12 18:42:40,739 - logs] - runTest.py - WARNING - 邮件发送开关配置关闭，请打开开关后可正常自动发送测试报告
+[2020-05-12 18:45:25,211 - logs] - runTest.py - INFO - resultPath = D:\Programs\test_script\yidoutang_API5.0\result\report.html
+[2020-05-12 18:45:25,211 - logs] - runTest.py - INFO - caseListFile = D:\Programs\test_script\yidoutang_API5.0\caselist.txt
+[2020-05-12 18:45:25,211 - logs] - runTest.py - INFO - caseList = []
+[2020-05-12 18:45:25,396 - logs] - runTest.py - ERROR - 错误信息：name 'StringIO' is not defined
+[2020-05-12 18:45:25,396 - logs] - runTest.py - INFO - *********TEST END*********
+[2020-05-12 18:45:25,396 - logs] - runTest.py - WARNING - 邮件发送开关配置关闭，请打开开关后可正常自动发送测试报告
+[2020-05-12 18:52:03,535 - logs] - runTest.py - INFO - resultPath = D:\Programs\test_script\yidoutang_API5.0\result\report.html
+[2020-05-12 18:52:03,535 - logs] - runTest.py - INFO - caseListFile = D:\Programs\test_script\yidoutang_API5.0\caselist.txt
+[2020-05-12 18:52:03,535 - logs] - runTest.py - INFO - caseList = []
+[2020-05-12 18:52:04,021 - logs] - testcase01.py - INFO - 接口调试成功！
+[2020-05-12 18:52:04,021 - logs] - testcase01.py - INFO - 响应内容：{'data': {'userId': '777214', 'token': '7d3832af60cb3b304fb7f41dff239d26', 'refresh': 'i93zlcxouje7f4m16r5pt0kgabsdn2w8', 'user_pic': 'https://aimg.yidoutang.com/test/avatar/202004/01/cdd3e3/e64a6b60bbd57285cd069c5d0c74d2a3.jpg!ori', 'user_role': 2, 'user_role_detail': {'vip_type': 3, 'title': '达人', 'detail': '测试达人'}, 'user_name': '测试糖_叁', 'signature': '', 'follow_num': 18, 'follower_num': 21, 'sex': '1', 'watermark': True, 'watermark_info': '一兜糖@测试糖_叁', 'badge_logo': '', 'is_store_account': True, 'mobile': '18620107509', 'show_recommend_users': False, 'source': 'mobile', 'background': {'normal_image': 'https://aimg.yidoutang.com/upload/match/normal/201809/18/5ba07d1db482d946.png!ori', 'info': {'img_w': 960, 'img_h': 960}}}, 'error': False, 'message': '登录成功！'}
+[2020-05-12 18:52:04,022 - logs] - runTest.py - INFO - *********TEST END*********
+[2020-05-12 18:52:04,022 - logs] - runTest.py - WARNING - 邮件发送开关配置关闭，请打开开关后可正常自动发送测试报告
